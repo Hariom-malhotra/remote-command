@@ -1,6 +1,4 @@
-{ 
-  
-  "Status": "ON",
-  "message": "MAKE BY HARRY"
-  
+{
+  "Status": "OFF",
+  "message": "Script has been disabled remotely."
 }
