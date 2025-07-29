@@ -1,4 +1,4 @@
 {
-  "Status": "OFF",
+  "Status": "ON",
   "message": "Script has been disabled remotely."
 }
